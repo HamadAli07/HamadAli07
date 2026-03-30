@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamad Ali</h1>
-<h3 align="center">🚀 Frontend Developer | React & Next.js Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | React & Next.js Enthusiast</h3>
 
 ---
 
@@ -33,7 +33,7 @@
 - Appkit
 - Wallet integrations
 
-### DevOps
+### ⚙️ DevOps
 - Cloudflare
 - Vercel
 - Netlify
@@ -56,7 +56,9 @@
 ## 🌍 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/hamadali07" target="blank">LinkedIn</a> |
+<a href="https://hamad-portfolio-lac.vercel.app/" target="blank">Portfolio</a> |
 <a href="mailto:hammadch488@gmail.com">Email</a>
+
 </p>
 
 ---
