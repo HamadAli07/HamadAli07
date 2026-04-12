@@ -1,71 +1,55 @@
-<h1 align="center">Hi 👋, I'm Hamad Ali</h1>
-<h3 align="center">🚀 Software Engineer | React & Next.js Enthusiast</h3>
+# Hi, I'm Hamad Ali 👋
+
+Frontend Engineer passionate about building **modern, scalable, and user-centric web applications**.
+
+I specialize in creating **pixel-perfect interfaces**, smooth user experiences, and high-performance web apps using modern frontend technologies.
+
+Currently working as a **Software Engineer at Funavry Technologies**, where I build responsive interfaces with **Next.js, Tailwind CSS, and secure authentication flows**.
+
+Previously worked as a **Full Stack Engineer at Metric**, contributing to financial dashboards, invoicing systems, analytics integrations, and AI-powered business solutions.
+
+## 🚀 Tech Stack
+
+**Frontend**
+React.js • Next.js • TypeScript • Tailwind CSS • ShadCN UI
+
+**Backend**
+Node.js • NextAuth • REST APIs
+
+**Database & Cloud**
+MongoDB • Firebase • Vercel • Netlify • Hostinger
+
+**Tools & Testing**
+Jest • Vitest • GitHub • Figma • Mixpanel • Firebase Analytics
 
 ---
 
-## 👨‍💻 About Me
-- 💻 Passionate about building modern web applications
-- ⚛️ Working with **React.js, Next.js, TypeScript**
-- 🎯 Focused on clean UI/UX and scalable architecture
-- 🌱 Currently learning **advanced frontend & Web3 integrations**
-- 🤝 Open to collaborations and freelance opportunities
+## 💼 What I Build
+
+* Responsive web applications
+* SaaS dashboards
+* Authentication systems
+* Crypto wallet integrations
+* AI-powered interfaces
+* Business automation tools
+* Data visualization dashboards
+* Payment & invoicing systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Featured Work
 
-### 🚀 Frontend
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-### ⚙️ Backend & Tools
-- Node.js
-- REST APIs
-- Git & GitHub
-
-### 🔗 Web3 (if applicable)
-- Wagmi
-- EVM
-- Solana
-- RainbowKit
-- Appkit
-- Wallet integrations
-
-### ⚙️ DevOps
-- Cloudflare
-- Vercel
-- Netlify
-- Hostinger
-- GoDaddy
-- Github Actions
+* **AgentsUp.ai** — AI marketplace platform with role-based dashboards
+* **Metric App** — Financial intelligence & invoicing platform
+* **Medco Financial** — Medical billing website
+* **Why Me Solutions** — Business solutions website
+* **Next Level Foodies** — SEO-friendly Next.js community platform
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamadAli07&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamadAli07&theme=tokyonight" />
-</p>
-
-## 🌍 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/hamadali07" target="blank">LinkedIn</a> |
-<a href="https://hamad-portfolio-lac.vercel.app/" target="blank">Portfolio</a> |
-<a href="mailto:hammadch488@gmail.com">Email</a>
-
-</p>
-
----
-
-## ⚡ Fun Fact
-I love turning ideas into real-world applications 💡
-
----
-
-⭐️ From [HamadAli07](https://github.com/HamadAli07)
+📧 [Hammadch488@gmail.com](mailto:Hammadch488@gmail.com)
+💼 LinkedIn: linkedin.com/in/hamadali07
+🌐 Portfolio: hamad-portfolio-lac.vercel.app
+🐙 GitHub: github.com/HamadAli07
