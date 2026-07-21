@@ -1,122 +1,267 @@
-````markdown
 # Hi there, I'm Hamad Ali 👋
+
+<h3 align="center">
+Software Engineer • React • Next.js • TypeScript • Node.js • Web3
+</h3>
 
 <p align="center">
   <a href="https://hamad-portfolio-lac.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/HamadAli07">
-    <img src="https://img.shields.io/badge/GitHub-HamadAli07-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/hamadali07">
-    <img src="https://img.shields.io/badge/LinkedIn-Hamad%20Ali-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Hamad_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Hammadch488@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-I'm **Hamad Ali**, a Software Engineer based in Islamabad, Pakistan, with over **3 years of professional experience** building scalable, high-performance web applications.
+I'm a **Software Engineer** based in **Islamabad, Pakistan**, with over **3 years of professional experience** building scalable web applications using modern JavaScript technologies.
 
-I specialize in developing modern web applications using **React.js, Next.js, TypeScript, and Node.js**, focusing on creating responsive, intuitive user experiences while maintaining clean architecture and scalable codebases.
+I enjoy transforming complex business requirements into intuitive, performant, and responsive user experiences. My work ranges from FinTech dashboards and AI-powered applications to Web3 integrations and enterprise SaaS platforms.
 
-Currently, I work at **Funavry Technologies**, where I develop crypto-enabled applications, reusable frontend systems, and production-ready web platforms.
-
-I enjoy solving complex engineering problems, learning new technologies, and building products that create real value for users.
+I'm passionate about writing clean, maintainable code, learning new technologies, and continuously improving both developer and user experiences.
 
 ---
 
-# 🚀 Current Role
+# 💼 Professional Experience
 
 ## Software Engineer
-**Funavry Technologies**  
-📍 Islamabad, Pakistan
+### Funavry Technologies
+**July 2025 – Present**
 
-Working on:
+Working on modern Web3 and SaaS applications using Next.js.
 
-- Next.js production applications
-- Web3 integrations
-- Wallet authentication
-- Signature-based authentication
-- CI/CD pipelines
-- Cloudflare deployments
-- Analytics
-- Embeddable widgets
-- Component architecture
-- Testing
-- Frontend performance optimization
+### Responsibilities
+
+- Building scalable applications using Next.js and TypeScript
+- Creating responsive and reusable UI components
+- Backend API integration
+- MetaMask integration
+- Phantom Wallet integration
+- WalletConnect (AppKit)
+- Signature-based authentication with NextAuth
+- Cloudflare deployment pipelines
+- CI/CD automation
+- Reusable embeddable widgets
+- Product analytics with PostHog
+- Unit testing
+- Code quality tooling (ESLint, Prettier)
+- Collaborating with designers and backend engineers
 
 ---
 
-# 💼 Previous Experience
-
 ## Full Stack Engineer
+### Metric
 
-**Metric**
+**June 2023 – July 2025**
 
-Worked on a financial platform where I developed:
+Worked on a cloud accounting platform serving businesses.
+
+### Responsibilities
+
+- React & Next.js development
+- Financial dashboards
+- PDF invoice generation
+- Arabic invoice support
+- Income & expense workflows
+- Partial payments
+- Recurring transactions
+- AI-powered financial assistant
+- ZohoBooks integration
+- QuickBooks integration
+- CSV migration
+- Mixpanel
+- Firebase Analytics
+- Facebook Pixel
+- Jest & Vitest
+- Bug fixing
+- Code reviews
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI-Assisted Job Platform
+
+An AI-powered full-stack platform that helps users discover jobs, rank opportunities, and generate AI-powered cover letters.
+
+### Features
+
+- AI-generated cover letters
+- Personalized job ranking
+- Multi-source job aggregation
+- JWT Authentication
+- Refresh Token Rotation
+- MongoDB caching
+- Kanban application tracker
+- Playwright E2E testing
+- PostHog analytics
+- Clean backend architecture
+
+### Tech Stack
+
+- Next.js 14
+- Express.js
+- MongoDB
+- TypeScript
+- Groq Llama 3.3
+- Playwright
+- PostHog
+
+**Live Demo**
+
+https://hackathon-2026-05-hammad.vercel.app
+
+---
+
+## 🚗 Circle Collision
+
+Modern responsive website for an automotive collision repair business.
+
+### Features
+
+- Responsive UI
+- Services pages
+- Testimonials
+- Certifications
+- Gallery
+- Contact forms
+- Google Maps
+- Call-to-actions
+
+**Live**
+
+https://circle-collision.vercel.app
+
+---
+
+## 🤖 AgentsUp.ai
+
+AI-powered agent marketplace.
+
+### Features
+
+- Email Authentication
+- Google OAuth
+- NextAuth
+- Dashboard
+- Marketplace
+- CRUD Operations
+- Knowledge Base
+- Route Protection
+
+---
+
+## 💰 Metric
+
+Cloud accounting platform.
+
+### Contributions
 
 - Financial dashboards
-- Invoice generation
+- PDF invoices
+- Arabic invoices
+- AI features
+- Analytics
+- Payments
 - Transaction workflows
-- AI-powered financial features
-- API integrations
-- Business analytics
-- PDF generation
-- Unit testing
-- Performance optimization
 
-Technologies:
+---
 
-- React
-- Next.js
-- Tailwind
-- Node.js
-- MongoDB
-- Jest
-- Vitest
+## 🌐 Why Me Solutions
+
+Business website built using React.
+
+### Features
+
+- Responsive Design
+- EmailJS
+- Facebook Pixel
+- AOS Animations
+
+---
+
+## 🍔 Next Level Foodies
+
+SEO-friendly recipe platform.
+
+### Features
+
+- Dynamic routing
+- SQLite
+- Server-side rendering
+- Community pages
+
+---
+
+## 📝 React Poster App
+
+A CRUD application built using React.
+
+### Features
+
+- Routing
+- REST APIs
+- Node backend
+- Dynamic posts
+
+---
+
+## 💸 Expense Tracker
+
+Simple React expense tracking application.
+
+### Features
+
+- Expense tracking
+- Balance calculation
+- Transaction history
 
 ---
 
 # 🛠 Tech Stack
 
+## Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+---
+
 ## Frontend
 
-- React.js
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- ShadCN UI
-- HTML5
-- CSS3
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
+
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+![ShadCN](https://img.shields.io/badge/ShadCN_UI-black)
 
 ---
 
 ## Backend
 
-- Node.js
-- Express.js
-- REST APIs
-- NextAuth
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-black?logo=express)
+
+![NextAuth](https://img.shields.io/badge/NextAuth-black)
 
 ---
 
 ## Databases
 
-- MongoDB
-- Firebase
-- SQLite
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
----
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-## Web3
-
-- MetaMask
-- Phantom Wallet
-- WalletConnect
-- Signature Authentication
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
 
 ---
 
@@ -128,7 +273,7 @@ Technologies:
 
 ---
 
-## DevOps
+## Cloud & DevOps
 
 - Git
 - GitHub
@@ -136,7 +281,7 @@ Technologies:
 - Vercel
 - Netlify
 - Hostinger
-- CI/CD Pipelines
+- CI/CD
 
 ---
 
@@ -149,282 +294,101 @@ Technologies:
 
 ---
 
-## Tools
+## Web3
 
-- VS Code
-- Cursor
-- GitHub Copilot
-- Figma
-
----
-
-# 🌟 Featured Projects
+- MetaMask
+- Phantom
+- WalletConnect
+- Signature Authentication
 
 ---
 
-## 🤖 AI-Assisted Job Platform
+# 🌱 Currently Learning
 
-An AI-powered full-stack job assistant built with modern architecture.
-
-### Features
-
-- AI Cover Letter Generator
-- Job Aggregation
-- Personalized Job Ranking
-- Kanban Job Tracker
-- JWT Authentication
-- Refresh Token Rotation
-- MongoDB Caching
-- Playwright E2E Testing
-- Analytics
-- Express Backend
-- Clean Architecture
-
-### Tech
-
-- Next.js 14
-- Express
-- MongoDB
-- TypeScript
-- Groq (Llama 3.3)
-- PostHog
-
-🔗 Demo
-
-https://hackathon-2026-05-hammad.vercel.app
+- Advanced Backend Engineering
+- PostgreSQL
+- System Design
+- Docker
+- Kubernetes
+- Microservices
+- Distributed Systems
+- AI Engineering
 
 ---
 
-## 🏢 Circle Collision
+# 📊 GitHub Stats
 
-Modern business website for an auto collision center.
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HamadAli07&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamadAli07&layout=compact&theme=tokyonight"/>
+</p>
 
-### Features
-
-- Responsive Design
-- Service Pages
-- Testimonials
-- Gallery
-- Contact Forms
-- Google Maps
-- CTA Sections
-
-🔗 Live
-
-https://circle-collision.vercel.app
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=HamadAli07&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🤖 AgentsUp.ai
+# 📈 GitHub Activity Graph
 
-AI marketplace platform.
-
-### Features
-
-- Authentication
-- Google OAuth
-- Dashboards
-- Marketplace
-- CRUD Operations
-- Role-based Access
-- Knowledge Base
-
-Tech:
-
-- Next.js
-- Tailwind
-- ShadCN
-- NextAuth
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamadAli07&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 💰 Metric
+# 🏆 GitHub Trophies
 
-Business accounting platform.
-
-Major Contributions:
-
-- Financial Dashboard
-- Transaction System
-- PDF Invoices
-- Arabic Invoices
-- AI Features
-- Analytics
-- Partial Payments
-- Recurring Transactions
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=HamadAli07&theme=tokyonight&margin-w=15"/>
+</p>
 
 ---
 
-## 🌐 Why Me Solutions
-
-Business landing page built with React.
-
-Features
-
-- Responsive UI
-- EmailJS
-- Facebook Pixel
-- Animations
-
----
-
-## 🍔 Next Level Foodies
-
-SEO-friendly recipe platform.
-
-Built with:
-
-- Next.js
-- SQLite
-
----
-
-## 📝 React Poster App
-
-A CRUD application demonstrating:
-
-- React Routing
-- State Management
-- Node Backend
-- REST APIs
-
----
-
-## 💸 Expense Tracker
-
-Simple React application featuring:
-
-- Transactions
-- Expense Tracking
-- Balance Calculation
-
----
-
-# 💡 What I Enjoy Building
+# 💡 What I Love Building
 
 - SaaS Platforms
 - AI Applications
-- Business Dashboards
-- Developer Tools
-- Web3 Applications
 - FinTech Products
-- Internal Company Tools
-- Modern Landing Pages
+- Business Dashboards
+- Web3 Applications
+- Landing Pages
 - Full Stack Applications
 - Component Libraries
+- Developer Tools
 
 ---
 
-# 📚 Currently Learning
+# 🤝 Let's Connect
 
-I'm continuously expanding my knowledge in:
+📧 **Email**
 
-- Advanced Node.js
-- System Design
-- Scalable Backend Architecture
-- Microservices
-- AI Integrations
-- Cloud Infrastructure
-- Docker
-- Kubernetes
-- PostgreSQL
-- Software Architecture
+Hammadch488@gmail.com
 
----
-
-# 📈 GitHub Stats
-
-> Add these once the repository is created.
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamadAli07&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamadAli07&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=HamadAli07)
-```
-
----
-
-# 📫 Connect With Me
-
-📧 Email
-
-**Hammadch488@gmail.com**
-
-🌐 Portfolio
+🌐 **Portfolio**
 
 https://hamad-portfolio-lac.vercel.app
 
-💼 LinkedIn
+💼 **LinkedIn**
 
 https://linkedin.com/in/hamadali07
 
-💻 GitHub
+💻 **GitHub**
 
 https://github.com/HamadAli07
 
 ---
 
-# 📌 Professional Highlights
+# 📌 Fun Facts
 
-✅ 3+ Years of Professional Experience
-
-✅ Software Engineer at Funavry Technologies
-
-✅ Former Full Stack Engineer at Metric
-
-✅ React & Next.js Specialist
-
-✅ Production Web3 Integrations
-
-✅ AI-Powered Application Development
-
-✅ CI/CD & Cloudflare Deployments
-
-✅ Authentication & Security
-
-✅ Clean Architecture
-
-✅ Responsive UI Development
-
-✅ Performance Optimization
-
-✅ Analytics Integration
-
----
-
-# 📖 Engineering Principles
-
-I believe great software should be:
-
-- Clean
-- Maintainable
-- Scalable
-- Accessible
-- Performant
-- Secure
-- User-Centric
-- Well Tested
-- Easy to Extend
-
----
-
-# 🤝 Open To
-
-I'm always interested in collaborating on:
-
-- Open Source Projects
-- SaaS Platforms
-- AI Products
-- React/Next.js Applications
-- Full Stack Development
-- Startup Projects
-- Freelance Opportunities
+- 🚀 I enjoy turning ideas into production-ready applications.
+- 🤖 I love integrating AI into real-world products.
+- 💻 I'm passionate about React and Next.js.
+- 🌱 I'm constantly learning new technologies.
+- ⚡ Clean architecture and performance optimization excite me.
 
 ---
 
 <p align="center">
-⭐ If you like my work, consider starring my repositories!
+⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
 </p>
-````
